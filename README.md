@@ -1,2 +1,2 @@
 # web-dev-stuff
-Place for random web projects
+Place for random web projects.
